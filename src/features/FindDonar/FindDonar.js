@@ -8,7 +8,7 @@ const FindDonar = () => {
                     <div className="col-start-2 col-span-4">
                         <div className="donar-search-box">
                             <input className='border-2 border-red-200 rounded-full focus:outline-none w-11/12 lg:w-3/5 h-8 lg:h-10 pl-5 pr-24' type="text" placeholder='Search donar' />
-                            <button className='bg-red-400 text-white px-3 lg:px-6 py-1 lg:py-2 lg:font-semibold rounded-full -ml-20 mt-1'><i className="fas fa-search"></i> Find</button>
+                            <button className='bg-red-400 text-white px-4 lg:px-6 py-1 lg:py-2 lg:font-semibold rounded-full -ml-20 mt-1'><i className="fas fa-search"></i> Find</button>
                         </div>
                     </div>
                 </div>
