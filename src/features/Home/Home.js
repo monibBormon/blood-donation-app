@@ -7,7 +7,7 @@ const Home = () => {
             <h1>Home</h1>
             <h4>updated by arif
             </h4>
-            <h2>Changed by Monib Bormon test branch</h2>
+            <h2 className='text-4xl text-red-400'>Changed by Monib Bormon test branch</h2>
             <Slider />
         </div>
     );
